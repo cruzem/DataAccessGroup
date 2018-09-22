@@ -1,0 +1,20 @@
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+SEVERE: Severe Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+SEVERE: Severe Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+WARNING: Warning Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+INFO: Info Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+SEVERE: Severe Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+WARNING: Warning Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+INFO: Info Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+SEVERE: Severe Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+WARNING: Warning Log
+Sep 22, 2018 5:41:53 PM week04.TestLogging testLogger
+INFO: Info Log
